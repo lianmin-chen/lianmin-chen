@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @charles-winit
 - 👀 I’m interested in many projects
-- 🌱 I’m currently learning C programming language and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-call me at 2323849131@qq.com
+- 🌱 I’m currently working on Computer Vision and Autonomous Driving
+call me at LianminChen@outlook.com
 
 <!---
 charles-winit/charles-winit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
