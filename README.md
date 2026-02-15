@@ -1,9 +1,154 @@
-- 👋 Hi, I’m @lianmin-chen
-- 👀 I’m interested in many projects
-- 🌱 I’m currently working on Artificial Intelligence, mainly focusing on Computer Vision and Autonomous Driving
-call me at LianminChen@outlook.com, and you can know more about me in website https://lianmin-chen.github.io/
+# 元衍极 | OriginX 
 
-<!---
-charles-winit/charles-winit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+![OriginX](https://img.shields.io/badge/OriginX-从一元到无极-blue?style=flat-square&logo=none)
+![Student](https://img.shields.io/badge/身份-本科生-brightgreen?style=flat-square)
+![HUST](https://img.shields.io/badge/HUST-计科学院-blueviolet?style=flat-square)
+[![Blog](https://img.shields.io/badge/Blog-元衍极-informational?style=flat-square&logo=internet-explorer)](https://lianmin-chen.github.io/)
+
+---
+
+**一个结构化思考者的成长轨迹**  
+*From the One, derive systematically, toward the Infinite.*
+
+</div>
+
+## 🎯 核心方法论
+
+我的思维框架围绕**三个关键概念**展开：
+
+### **一元** | One
+从最小、最本质的假设出发。在任何问题开始前，先定义清晰的基础，确保讨论建立在坚实的基础上。
+
+### **推演** | Derive  
+结构化、可重复的推理过程。不是零散的观点堆砌，而是层层递进、逻辑闭环的思维链条。每个结论都能追溯到源头。
+
+### **无极** | Infinite
+体系的持续扩展与演进。不自我封闭，保持对新观点、新方法的开放，在扩展中保持一致性。
+
+---
+
+## 👤 个人简介
+
+你好！我是 **Lianmin Chen**，来自 **华中科技大学** 计算机科学与技术学院的本科生。
+
+我的学习与研究聚焦在**机器学习**领域，特别关注：
+- 🚗 **轨迹预测** — 自动驾驶中的多智能体交互建模
+- 🧠 **大语言模型** — 模型能力与推理机制
+- 🎯 **强化学习** — 最优化与策略学习
+- ⚙️ **零阶优化** — 黑盒优化方法
+
+### 信条
+> 清晰胜过华丽，引用胜过堆叠。可复现、可引用、可扩展是我的最低标准。
+
+---
+
+## 🏆 学术成果
+
+### 发表论文
+
+**HeLoFusion: An Efficient and Scalable Encoder for Modeling Heterogeneous and Multi-Scale Interactions in Trajectory Prediction**  
+📍 *NeurIPS workshop UrbanAI 2025*  
+👥 Bingqing Wei, **Lianmin Chen**, Zhongyu Xia, Yongtao Wang  
+🔗 [arXiv:2509.11719](https://arxiv.org/abs/2509.11719) | [PDF](https://arxiv.org/pdf/2509.11719)
+
+**核心贡献：** 提出**局部、多尺度的交互图**构造方法，有效捕获智能体间的异构与多层次交互，在 Waymo Open Motion Dataset 上达到 SOTA 性能。
+
+### 学术入口
+
+- 📚 [Google Scholar](https://scholar.google.com) — 论文引用与研究概览
+- 📖 [DBLP](https://dblp.org) — 计算机科学文献索引  
+- 🔍 [OpenReview](https://openreview.net) — 学术评审与讨论
+
+---
+
+## 💻 项目亮点
+
+### 推理路径可视化工具 (2025)
+一个可交互的思维路径可视化系统，用于展现复杂推理过程中的结构与分支。
+
+### 知识结构化的写作流程 (2024)
+从输入到输出的完整写作方法论，强调逻辑层级、概念清晰与论证可验证。
+
+---
+
+## 📚 文章与分享
+
+这是我持续积累与思考的地方。每篇文章都遵循"**先结构，后细节；先推理，后结论**"的原则。
+
+### 博客专题
+- **结构化思考系列** — 如何定义最小假设、构建推理框架
+- **机器学习进阶** — 模型设计、优化技巧与实验复现
+- **学习笔记** — 论文精读、概念拆解、扩展阅读
+
+### 访问博客
+👉 [元衍极 · 完整博客](https://lianmin-chen.github.io/blog.html)  
+👉 [文章详情](https://lianmin-chen.github.io/article.html)
+
+---
+
+## 🌟 荣誉与认可
+
+- 🏅 华中科技大学三好学生（2025）
+- 🏅 华中科技大学三好学生（2024）
+- 🏅 华中科技大学三好学生（2023）
+
+---
+
+## 📞 联系方式
+
+无论是学术合作、项目讨论还是思想碰撞，都欢迎主动联系！
+
+| 平台 | 入口 | 备注 |
+|------|------|------|
+| **邮箱** | [LianminChen@outlook.com](mailto:LianminChen@outlook.com) | 学术合作与长期交流 |
+| **GitHub** | [@lianmin-chen](https://github.com/lianmin-chen) | 代码、实验、文档 |
+| **知乎** | [个人主页](https://www.zhihu.com/people/hao-yue-dang-kong-7-96) | 结构化思考与研究笔记 |
+| **哔哩哔哩** | [频道](https://space.bilibili.com/1924591052) | 视频讲解与实验演示 |
+
+---
+
+## 🔗 更多信息
+
+- 🏠 **个人网站** → [lianmin-chen.github.io](https://lianmin-chen.github.io/)
+- 📖 **关于我** → [完整介绍](https://lianmin-chen.github.io/about.html)
+- 🎓 **学术输出** → [论文与项目](https://lianmin-chen.github.io/academic.html)
+- ✍️ **思考日记** → [生活记录](https://lianmin-chen.github.io/life.html)
+
+---
+
+<div align="center">
+
+### 📊 GitHub 统计
+
+![Lianmin Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianmin-chen&theme=default&show_icons=true&hide=contribs,issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lianmin-chen&layout=compact&theme=default)
+
+---
+
+💡 *始于一元，衍至无极。*  
+⏰ All inputs welcome. Let's think together.
+
+```
+"这个网站不是为了展示'我很厉害'，
+而是为了让时间证明：我的思考是连贯的、可复用的、在持续生长的。"
+
+— Lianmin Chen, 2026
+```
+
+</div>
+
+---
+
+## 📄 许可证
+
+本仓库的代码与文档遵循 MIT License。  
+**本站内容与设计未经允许，不得以任何形式转载或用于商业目的。**
+
+---
+
+<p align="center">
+  <sub>Last updated: 2026-02-15 | Made with ❤️ and 🧠</sub>
+</p>
