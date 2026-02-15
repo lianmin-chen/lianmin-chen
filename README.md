@@ -8,6 +8,8 @@
 
 <br />
 
+<br />
+
 ![OriginX](https://img.shields.io/badge/OriginX-从一元到无极-blue?style=flat-square&logo=none)
 ![Student](https://img.shields.io/badge/身份-本科生-brightgreen?style=flat-square)
 ![HUST](https://img.shields.io/badge/HUST-计科学院-blueviolet?style=flat-square)
@@ -15,6 +17,7 @@
 
 ---
 
+**元衍极 | OriginX**  
 **元衍极 | OriginX**  
 *From the One, derive systematically, toward the Infinite.*
 
