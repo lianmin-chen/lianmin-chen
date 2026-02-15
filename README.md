@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<a href="https://lianmin-chen.github.io/">
+  <img src="./logo.svg" alt="OriginX Logo" width="160" />
+</a>
+
 ![OriginX](https://img.shields.io/badge/OriginX-从一元到无极-blue?style=flat-square&logo=none)
 ![Student](https://img.shields.io/badge/身份-本科生-brightgreen?style=flat-square)
 ![HUST](https://img.shields.io/badge/HUST-计科学院-blueviolet?style=flat-square)
@@ -93,14 +97,6 @@
 ---
 
 <div align="center">
-
-### 📊 GitHub 统计
-
-![Lianmin Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianmin-chen&theme=default&show_icons=true&hide=contribs,issues&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lianmin-chen&layout=compact&theme=default&cache_seconds=86400)
-
----
 
 💡 *始于一元，衍至无极。*  
 ⏰ All inputs welcome. Let's think together.
