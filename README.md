@@ -41,8 +41,6 @@
 👥 Bingqing Wei, **Lianmin Chen**, Zhongyu Xia, Yongtao Wang  
 🔗 [arXiv:2509.11719](https://arxiv.org/abs/2509.11719) | [PDF](https://arxiv.org/pdf/2509.11719)
 
-**核心贡献：** 提出**局部、多尺度的交互图**构造方法，有效捕获智能体间的异构与多层次交互，在 Waymo Open Motion Dataset 上达到 SOTA 性能。
-
 ### 学术入口（TODO）
 
 - 📚 [Google Scholar](https://scholar.google.com) — 论文引用与研究概览
@@ -68,9 +66,7 @@
 
 ## 🌟 荣誉与认可
 
-- 🏅 华中科技大学三好学生（2025）
-- 🏅 华中科技大学三好学生（2024）
-- 🏅 华中科技大学三好学生（2023）
+- 🏅 三好学生，好多次啊~
 
 ---
 
@@ -105,7 +101,7 @@
 "多少事，从来急；
 天地转，光阴迫。
 一万年太久，只争朝夕！"
-共同努力吧！
+同志们，共同努力吧！
 
 — Lianmin Chen, 2026
 ```
