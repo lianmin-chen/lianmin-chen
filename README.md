@@ -14,27 +14,11 @@
 
 </div>
 
-## 🎯 核心方法论
-
-我的思维框架围绕**三个关键概念**展开：
-
-### **一元** | One
-从最小、最本质的假设出发。在任何问题开始前，先定义清晰的基础，确保讨论建立在坚实的基础上。
-
-### **推演** | Derive  
-结构化、可重复的推理过程。不是零散的观点堆砌，而是层层递进、逻辑闭环的思维链条。每个结论都能追溯到源头。
-
-### **无极** | Infinite
-体系的持续扩展与演进。不自我封闭，保持对新观点、新方法的开放，在扩展中保持一致性。
-
----
-
 ## 👤 个人简介
 
 你好！我是 **Lianmin Chen**，来自 **华中科技大学** 计算机科学与技术学院的本科生。
 
 我的学习与研究聚焦在**机器学习**领域，特别关注：
-- 🚗 **轨迹预测** — 自动驾驶中的多智能体交互建模
 - 🧠 **大语言模型** — 模型能力与推理机制
 - 🎯 **强化学习** — 最优化与策略学习
 - ⚙️ **零阶优化** — 黑盒优化方法
@@ -55,7 +39,7 @@
 
 **核心贡献：** 提出**局部、多尺度的交互图**构造方法，有效捕获智能体间的异构与多层次交互，在 Waymo Open Motion Dataset 上达到 SOTA 性能。
 
-### 学术入口
+### 学术入口（TODO）
 
 - 📚 [Google Scholar](https://scholar.google.com) — 论文引用与研究概览
 - 📖 [DBLP](https://dblp.org) — 计算机科学文献索引  
@@ -63,24 +47,14 @@
 
 ---
 
-## 💻 项目亮点
-
-### 推理路径可视化工具 (2025)
-一个可交互的思维路径可视化系统，用于展现复杂推理过程中的结构与分支。
-
-### 知识结构化的写作流程 (2024)
-从输入到输出的完整写作方法论，强调逻辑层级、概念清晰与论证可验证。
-
----
 
 ## 📚 文章与分享
 
 这是我持续积累与思考的地方。每篇文章都遵循"**先结构，后细节；先推理，后结论**"的原则。
 
 ### 博客专题
-- **结构化思考系列** — 如何定义最小假设、构建推理框架
-- **机器学习进阶** — 模型设计、优化技巧与实验复现
-- **学习笔记** — 论文精读、概念拆解、扩展阅读
+- **学习笔记系列** — 学习课程知识
+- **论文阅读系列** — 论文精读、概念拆解、扩展阅读
 
 ### 访问博客
 👉 [元衍极 · 完整博客](https://lianmin-chen.github.io/blog.html)  
@@ -122,9 +96,9 @@
 
 ### 📊 GitHub 统计
 
-![Lianmin Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianmin-chen&theme=default&show_icons=true&hide=contribs,issues)
+![Lianmin Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianmin-chen&theme=default&show_icons=true&hide=contribs,issues&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lianmin-chen&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lianmin-chen&layout=compact&theme=default&cache_seconds=86400)
 
 ---
 
@@ -132,8 +106,10 @@
 ⏰ All inputs welcome. Let's think together.
 
 ```
-"这个网站不是为了展示'我很厉害'，
-而是为了让时间证明：我的思考是连贯的、可复用的、在持续生长的。"
+"多少事，从来急；
+天地转，光阴迫。
+一万年太久，只争朝夕！"
+共同努力吧！
 
 — Lianmin Chen, 2026
 ```
@@ -144,7 +120,6 @@
 
 ## 📄 许可证
 
-本仓库的代码与文档遵循 MIT License。  
 **本站内容与设计未经允许，不得以任何形式转载或用于商业目的。**
 
 ---
