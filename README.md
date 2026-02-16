@@ -98,6 +98,7 @@
 | **GitHub** | [@lianmin-chen](https://github.com/lianmin-chen) | 代码、实验、文档 |
 | **知乎** | [个人主页](https://www.zhihu.com/people/yuanyanji) | 结构化思考与研究笔记 |
 | **哔哩哔哩** | [频道](https://space.bilibili.com/1924591052) | 视频讲解与实验演示 |
+| **小红书** | [个人主页](https://www.xiaohongshu.com/user/profile/64c48b30000000000e027cf2) | 笔记与分享 |
 
 ---
 
