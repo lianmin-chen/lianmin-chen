@@ -61,18 +61,12 @@
 👥 Bingqing Wei, **Lianmin Chen**, Zhongyu Xia, Yongtao Wang  
 🔗 [arXiv:2509.11719](https://arxiv.org/abs/2509.11719) | [PDF](https://arxiv.org/pdf/2509.11719)
 
-### 学术入口（TODO） | Academic links (TODO)
-
-- 📚 [Google Scholar](https://scholar.google.com) — 论文引用与研究概览<br />
-  *Google Scholar — citation and research overview*
-- 📖 [DBLP](https://dblp.org) — 计算机科学文献索引  <br />
-  *DBLP — computer science bibliographic index*
-- 🔍 [OpenReview](https://openreview.net) — 学术评审与讨论<br />
-  *OpenReview — peer review and discussions*
-
 ---
 
 ## 📞 联系方式 | Contact
+
+🏠 **个人网站** → [lianmin-chen.github.io](https://lianmin-chen.github.io/)<br />
+*Personal website → lianmin-chen.github.io*
 
 无论是学术合作、项目讨论还是思想碰撞，都欢迎主动联系！<br />
 *Whether it's academic collaboration, project discussion, or idea exchange, feel free to reach out!*
@@ -82,28 +76,10 @@
 | **邮箱** | [lianminchen@hust.edu.cn](mailto:lianminchen@hust.edu.cn) | 学术合作与长期交流（主要渠道） |
 | **GitHub** | [@lianmin-chen](https://github.com/lianmin-chen) | 代码、实验、文档 |
 | **知乎** | [个人主页](https://www.zhihu.com/people/yuanyanji) | 结构化思考与研究笔记 |
-| **哔哩哔哩** | [频道](https://space.bilibili.com/1924591052) | 视频讲解与实验演示 |
-| **小红书** | [个人主页](https://www.xiaohongshu.com/user/profile/64c48b30000000000e027cf2) | 笔记与分享 |
-
----
-
-## 🔗 更多信息 | More info
-
-- 🏠 **个人网站** → [lianmin-chen.github.io](https://lianmin-chen.github.io/)<br />
-  *Personal website → lianmin-chen.github.io*
-- 👤 **关于我** → [首页 · 个人档案与经历](https://lianmin-chen.github.io/index.html)<br />
-  *About → profile and experience on the home page*
-- 🏆 **学术研究** → [首页 · 精选论文](https://lianmin-chen.github.io/index.html#research)<br />
-  *Research → selected publications*
-- ✍️ **思考与生活** → [博客](https://lianmin-chen.github.io/blog.html)<br />
-  *Blog → articles, series, and life notes*
-- 📮 **联系方式** → [联系页面](https://lianmin-chen.github.io/contact.html)<br />
-  *Contact → email, GitHub, Zhihu, and academic profiles*
 
 ---
 
 <div align="center">
-
 💡 *始于一元，衍至无极。*  <br />
 *From the One, unfold to the Infinite.*
 ⏰ All inputs welcome. Let's think together.
