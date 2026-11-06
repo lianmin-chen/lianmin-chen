@@ -79,24 +79,6 @@
 
 ---
 
-<div align="center">
-💡 *始于一元，衍至无极。*  <br />
-*From the One, unfold to the Infinite.*
-⏰ All inputs welcome. Let's think together.
-
-```
-"多少事，从来急；
-天地转，光阴迫。
-一万年太久，只争朝夕！"
-同志们，共同努力吧！
-
-— Lianmin Chen, 2026
-```
-
-</div>
-
----
-
 ## 📄 许可证 | License
 
 **本站内容与设计未经允许，不得以任何形式转载或用于商业目的。**<br />
